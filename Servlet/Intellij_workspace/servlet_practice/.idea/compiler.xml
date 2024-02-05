@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/Annotation_mapping.java" />
+      <file url="file://$PROJECT_DIR$/src/Output_castring.java" />
+      <file url="file://$PROJECT_DIR$/src/Output_castring2.java" />
+      <file url="file://$PROJECT_DIR$/src/GET_Query.java" />
+      <file url="file://$PROJECT_DIR$/web/index.jsp" />
+      <file url="file://$PROJECT_DIR$/src/GET_Query2.java" />
+      <file url="file://$PROJECT_DIR$/src/Input_GETquery.java" />
+      <file url="file://$PROJECT_DIR$/src/NoticeReg.java" />
+      <file url="file://$PROJECT_DIR$/src/ex_add.java" />
+    </excludeFromCompile>
+  </component>
+</project>
