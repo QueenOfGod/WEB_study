@@ -11,6 +11,7 @@
       <file url="file://$PROJECT_DIR$/src/Input_GETquery.java" />
       <file url="file://$PROJECT_DIR$/src/NoticeReg.java" />
       <file url="file://$PROJECT_DIR$/src/ex_add.java" />
+      <file url="file://$PROJECT_DIR$/src/choose_add.java" />
     </excludeFromCompile>
   </component>
 </project>
